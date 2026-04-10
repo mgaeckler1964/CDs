@@ -1,0 +1,13 @@
+[OPTIONS]
+TITLE=CD-Verwaltung
+CONTENTS=inhalt
+COMPRESS=   0
+WARNING=   1
+REPORT=   0
+COPYRIGHT=(c) 1996 by Thomas Pflügler Schondorf
+[CONFIG]
+BrowseButtons()
+[BITMAPS]
+[FILES]
+X:\CD_VERW\CD_VERW.rtf
+[MAP]
